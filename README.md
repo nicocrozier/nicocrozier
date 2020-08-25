@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<div class="center2">
+
   <video autoplay loop>
     <source src="holo.mp4" type="video/mp4">
   </video>
-</div>
+
