@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
   <video autoplay loop>
-    <source src="holo.mp4" type="video/mp4">
+    <source src="https://github.com/nicocrozier/nicocrozier/blob/master/holo.mp4?raw=true" type="video/mp4">
   </video>
 
