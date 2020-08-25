@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **nicocrozier/nicocrozier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,5 +18,7 @@ Here are some ideas to get you started:
 
 
 
-  <img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/MOSHED-2020-8-24-21-13-39.gif" >
+
+  <img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/MOSHED-2020-8-24-21-13-39.gif" width ="1000">
+
 
