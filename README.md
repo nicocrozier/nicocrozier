@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 
 
-  <video autoplay loop>
-    <source src="https://github.com/nicocrozier/nicocrozier/blob/master/holo.mp4?raw=true" type="video/mp4">
-  </video>
+  <img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/MOSHED-2020-8-24-21-13-39.gif" >
 
