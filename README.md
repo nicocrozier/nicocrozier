@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
  <img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/MOSHED-2020-8-24-21-13-39.gif" width ="1000">
+ <img src "https://media.giphy.com/media/LP0OeBpbS9uIxAJpKr/giphy.gif" width = "1000">
 
   <!--<img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/tensorflow.png" width="60">
   <img src="https://raw.githubusercontent.com/nicocrozier/nicocrozier/master/c-programming-569564.png" width="60">
